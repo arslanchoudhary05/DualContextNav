@@ -1,0 +1,5 @@
+path: datasets/kitti
+train: train/images
+val: val/images
+nc: 3
+names: ["Car","Pedestrian","Cyclist"]
