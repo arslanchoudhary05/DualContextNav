@@ -3,7 +3,7 @@
 This project presents a context-aware assistive navigation system designed for visually impaired individuals. The system integrates environment classification, domain-specific object detection, spatial reasoning, and decision-making to provide meaningful navigation guidance.
 
 <p align="center">
-  <img src="figures/architecture.png" width="700"/>
+  <img src="Figures/architecture.png" width="700"/>
   <br>
   <em>Overall workflow of the proposed ultrasound image retrieval framework.</em>
 </p>
